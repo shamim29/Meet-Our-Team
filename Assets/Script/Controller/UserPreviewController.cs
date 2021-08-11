@@ -3,12 +3,9 @@ using UnityEngine;
 using UnityEngine.UI;
 
 
-
 public class UserPreviewController : MonoBehaviour
 {
-
     public static UserPreviewController instance;
-
 
     public Image Thumnail;
     public TextMeshProUGUI UserName;

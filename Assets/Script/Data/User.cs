@@ -1,5 +1,4 @@
 using Sirenix.OdinInspector;
-using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -18,7 +17,5 @@ public class User : SerializedScriptableObject
     public Dictionary<string, string> CertificationLinks;
 
     public List<Technologies> Technologies;
-
-
 
 }
