@@ -103,8 +103,9 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
+  UserExperience: 2
   UserName: Akib Laam
-  UserThamnail: {fileID: 21300000, guid: 92111900f3b56ba40a24686fa8efc3af, type: 3}
-  YearsofExperience: 0
   UserDesignation: Associate Software Engineer
+  UserProfile: {fileID: 21300000, guid: 92111900f3b56ba40a24686fa8efc3af, type: 3}
+  UserQuotes: Hello !
   Technologies: 000000000b00000002000000

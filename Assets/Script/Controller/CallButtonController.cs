@@ -16,7 +16,7 @@ public class CallButtonController : MonoBehaviour
         Button = GetComponent<Button>();
         ButtonImage = GetComponent<Image>();
 
-        ButtonImage.sprite = User.UserThamnail;
+        ButtonImage.sprite = User.UserProfile;
 
         Button.onClick.AddListener(ShowUser);
 
@@ -25,6 +25,5 @@ public class CallButtonController : MonoBehaviour
     private void ShowUser()
     {
         UserPreviewController.instance.ShowUser(User);
-
     }
 }

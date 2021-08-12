@@ -7,15 +7,20 @@ using UnityEngine;
 
 public class User : SerializedScriptableObject
 {
+    public string UserExperience;
     public string UserName;
-    public Sprite UserThamnail;
-    public double YearsofExperience;
     public string UserDesignation;
+    public Sprite UserProfile;
 
     public Dictionary<SocialMedias, string> SocilaLinks;
+    
+    public string UserQuotes;
+
+    public List<Technologies> Technologies;
+
 
     public Dictionary<string, string> CertificationLinks;
 
-    public List<Technologies> Technologies;
+    
 
 }

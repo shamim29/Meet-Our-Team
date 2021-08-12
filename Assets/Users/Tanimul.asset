@@ -103,8 +103,9 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
+  UserExperience: 6
   UserName: Tanimul Haque Khan
-  UserThamnail: {fileID: 21300000, guid: 9a1a8cbac30bad64dbc1e70b42a98d9d, type: 3}
-  YearsofExperience: 5
   UserDesignation: Business Unit Head
+  UserProfile: {fileID: 21300000, guid: 9a1a8cbac30bad64dbc1e70b42a98d9d, type: 3}
+  UserQuotes: 2 Taker Developer
   Technologies: 000000000100000002000000

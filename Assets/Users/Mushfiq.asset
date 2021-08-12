@@ -91,8 +91,9 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
+  UserExperience: 3
   UserName: Mushfiq Iqbal
-  UserThamnail: {fileID: 21300000, guid: 327cf55b75a6b3a439cd910f6f8fed64, type: 3}
-  YearsofExperience: 0
   UserDesignation: Associate Software Engineer
+  UserProfile: {fileID: 21300000, guid: 327cf55b75a6b3a439cd910f6f8fed64, type: 3}
+  UserQuotes: Hmm....
   Technologies: 050000000600000007000000

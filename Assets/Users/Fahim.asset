@@ -115,8 +115,9 @@ MonoBehaviour:
     - Name: 
       Entry: 8
       Data: 
+  UserExperience: 1
   UserName: Fahim Arsad Nafis
-  UserThamnail: {fileID: 21300000, guid: 14098f5932401b04b9ed5375ff350afe, type: 3}
-  YearsofExperience: 0
-  UserDesignation: Management Trainee
+  UserDesignation: Business Analyst
+  UserProfile: {fileID: 21300000, guid: 14098f5932401b04b9ed5375ff350afe, type: 3}
+  UserQuotes: Fill free to talk
   Technologies: 100000001100000008000000
